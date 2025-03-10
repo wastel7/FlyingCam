@@ -33,7 +33,7 @@ Support boards are the common ESP32-CAM (CAMERA_MODEL_AI_THINKER) and the Seeed 
 
 ## 3D-parts
 
-The 3D-parts can be found here: [https://www.thingiverse.com/thing:6946848](https://www.thingiverse.com/thing:6946848)
+The 3D-parts can be found here: [https://www.printables.com/model/1224319-flyingcam](https://www.printables.com/model/1224319-flyingcam)
 
 
 
