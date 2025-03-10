@@ -29,6 +29,7 @@ Support boards are the common ESP32-CAM (CAMERA_MODEL_AI_THINKER) and the Seeed 
 
 * lvgl 9.2.2
 * Arduino_GFX Library
+* TAMC_GT911
 * ESP32_JPEG_Library ([https://github.com/esp-arduino-libs/ESP32_JPEG](https://github.com/esp-arduino-libs/ESP32_JPEG))
 
 ## 3D-parts
@@ -38,4 +39,4 @@ The 3D-parts can be found here: [https://www.printables.com/model/1224319-flying
 
 
 
-More Info: [http://www.sebastian-duell.de/en/flyingcam/index.html](http://www.sebastian-duell.de/en/flyingcam/index.html)
+More Info: [https://www.sebastian-duell.de/en/flyingcam/index.html](https://www.sebastian-duell.de/en/flyingcam/index.html)
